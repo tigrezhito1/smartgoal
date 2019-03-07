@@ -1,0 +1,30 @@
+
+#personales,#jugadores,#logueo,#juegos,#nuevo_juego,#nuevo_jugador{
+    display:none;
+
+
+}
+
+.cerrar{
+    background: green;
+    color: red;
+    float: right;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+  
+
+
+
+  
+
+
+        
+}
+
+.cerrar h1{
+   text-align: center;
+   margin: 6px; /*espacio alrededor texto*/
+   
+}
+
