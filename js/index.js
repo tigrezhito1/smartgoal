@@ -9,7 +9,7 @@ $(document).ready(function(){
         $('#logueo').hide(3000); //muestro mediante id
 
         $('#nuevo_jugador').hide(3000); //muestro mediante id
-
+        $('#column1').show();
      
      });
     
@@ -31,6 +31,7 @@ $(document).ready(function(){
         $('#logueo').hide(3000); //muestro mediante id
 
         $('#nuevo_jugador').hide(3000); //muestro mediante id
+        $('#column1').show()
      
      });
     
